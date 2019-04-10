@@ -1800,37 +1800,12 @@ body {
 .cid-rmAMJAEBwe .mbr-section-btn {
   color: #ffffff;
 }
-.cid-rnfEGhs24s {
-  padding-top: 120px;
+.cid-rnfKsnTUp6 {
+  padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background: linear-gradient(45deg, #dbd4b8, #25aab2);
 }
-.cid-rnfEGhs24s .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rnfEGhs24s .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-rnfEH0OWu5 {
-  padding-top: 120px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rnfEH0OWu5 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rnfEH0OWu5 .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-rnfEHBJBBN {
-  padding-top: 120px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rnfEHBJBBN .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rnfEHBJBBN .btn {
+.cid-rnfKsnTUp6 .btn {
   margin: 0 0 .5rem 0;
 }
 .cid-rmAMUxsK9K .navbar {
@@ -2286,18 +2261,10 @@ body {
 .cid-rmAVccANoZ .btn {
   margin: 0 0 .5rem 0;
 }
-.cid-rnfG6NKZLX {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rnfG6NKZLX P {
-  color: #767676;
-}
 .cid-rnfIpL7PqD {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #5b686b;
 }
 .cid-rnfIpL7PqD .progress {
   width: 100%;
@@ -2310,7 +2277,7 @@ body {
   font-weight: 300;
 }
 .cid-rnfIpL7PqD .mbr-section-subtitle {
-  color: #767676;
+  color: #073b4c;
 }
 .cid-rnfIpL7PqD .progress_value {
   position: relative;
@@ -2366,10 +2333,13 @@ body {
 .cid-rnfIpL7PqD .progress_value span {
   padding-left: 30px;
 }
+.cid-rnfIpL7PqD .mbr-section-title {
+  color: #b1a374;
+}
 .cid-rnfJ0Yogx3 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #5b686b;
 }
 .cid-rnfJ0Yogx3 .progress {
   width: 100%;
@@ -2407,13 +2377,13 @@ body {
   background: rgba(206, 206, 206, 0.4);
 }
 .cid-rnfJ0Yogx3 progress::-webkit-progress-value {
-  background: #149dcc;
+  background: #7f1933;
 }
 .cid-rnfJ0Yogx3 progress[value]::-moz-progress-bar {
-  background: #149dcc;
+  background: #7f1933;
 }
 .cid-rnfJ0Yogx3 progress::-ms-fill {
-  background: #149dcc;
+  background: #7f1933;
 }
 .cid-rnfJ0Yogx3 .progress1 .progressbar-number:before {
   content: '73';
@@ -2437,6 +2407,9 @@ body {
 }
 .cid-rnfJ0Yogx3 .progress_value span {
   padding-left: 30px;
+}
+.cid-rnfJ0Yogx3 .mbr-section-subtitle B {
+  color: #073b4c;
 }
 .cid-rmAVh4I2sQ {
   padding-top: 30px;
