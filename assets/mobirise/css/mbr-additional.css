@@ -1800,6 +1800,44 @@ body {
 .cid-rmAMJAEBwe .mbr-section-btn {
   color: #ffffff;
 }
+.cid-rnfDKip2Cn {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rnfDKip2Cn .pricing {
+  padding: 3.3rem;
+  color: #767676;
+  background-color: #fff;
+}
+@media (max-width: 767px) {
+  .cid-rnfDKip2Cn .pricing {
+    padding: 1.5rem;
+  }
+}
+.cid-rnfDKip2Cn .plan-header,
+.cid-rnfDKip2Cn .plan-body {
+  background-color: #fff;
+}
+.cid-rnfDKip2Cn .plan-title {
+  margin-top: 1.4rem;
+}
+.cid-rnfDKip2Cn .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+@media (max-width: 550px) {
+  .cid-rnfDKip2Cn .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-rnfDKip2Cn .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+.cid-rnfDKip2Cn hr {
+  margin: 2rem 0;
+}
 .cid-rmAMUxsK9K .navbar {
   background: #ffffff;
   transition: none;
