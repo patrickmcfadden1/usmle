@@ -1800,43 +1800,38 @@ body {
 .cid-rmAMJAEBwe .mbr-section-btn {
   color: #ffffff;
 }
-.cid-rnfDKip2Cn {
+.cid-rnfEGhs24s {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
-.cid-rnfDKip2Cn .pricing {
-  padding: 3.3rem;
+.cid-rnfEGhs24s .mbr-section-subtitle {
   color: #767676;
-  background-color: #fff;
 }
-@media (max-width: 767px) {
-  .cid-rnfDKip2Cn .pricing {
-    padding: 1.5rem;
-  }
+.cid-rnfEGhs24s .btn {
+  margin: 0 0 .5rem 0;
 }
-.cid-rnfDKip2Cn .plan-header,
-.cid-rnfDKip2Cn .plan-body {
-  background-color: #fff;
+.cid-rnfEH0OWu5 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
-.cid-rnfDKip2Cn .plan-title {
-  margin-top: 1.4rem;
+.cid-rnfEH0OWu5 .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-rnfDKip2Cn .price-figure {
-  font-weight: 700;
-  color: #232323;
+.cid-rnfEH0OWu5 .btn {
+  margin: 0 0 .5rem 0;
 }
-@media (max-width: 550px) {
-  .cid-rnfDKip2Cn .price-figure {
-    font-size: 4.25rem;
-  }
+.cid-rnfEHBJBBN {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
-.cid-rnfDKip2Cn .price-value {
-  font-weight: 700;
-  vertical-align: top;
+.cid-rnfEHBJBBN .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-rnfDKip2Cn hr {
-  margin: 2rem 0;
+.cid-rnfEHBJBBN .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-rmAMUxsK9K .navbar {
   background: #ffffff;
@@ -2290,6 +2285,150 @@ body {
 }
 .cid-rmAVccANoZ .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-rnfG6NKZLX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rnfG6NKZLX P {
+  color: #767676;
+}
+.cid-rnfFqyPtog {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rnfFqyPtog h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rnfFqyPtog .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-rnfFqyPtog .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnfFqyPtog .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-rnfFqyPtog ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-rnfFqyPtog path {
+  stroke: #149dcc;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-rnfFqyPtog .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
+}
+.cid-rnfGFEuFgg {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rnfGFEuFgg h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rnfGFEuFgg .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-rnfGFEuFgg .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnfGFEuFgg .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-rnfGFEuFgg ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-rnfGFEuFgg path {
+  stroke: #149dcc;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-rnfGFEuFgg .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
+}
+.cid-rnfGWgZmnt {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rnfGWgZmnt h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rnfGWgZmnt .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-rnfGWgZmnt .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnfGWgZmnt .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-rnfGWgZmnt ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-rnfGWgZmnt path {
+  stroke: #149dcc;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-rnfGWgZmnt .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
+}
+.cid-rnfGG11CAx {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rnfGG11CAx h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rnfGG11CAx .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-rnfGG11CAx .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnfGG11CAx .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-rnfGG11CAx ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-rnfGG11CAx path {
+  stroke: #149dcc;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-rnfGG11CAx .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
 }
 .cid-rmAVh4I2sQ {
   padding-top: 30px;
